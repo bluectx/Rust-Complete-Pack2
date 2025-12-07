@@ -1,6 +1,6 @@
 # 🦀 LE GUIDE RUST (ENCORE UN, OUI )
 
-**Un guide ludique par AnonSecLab complet de plus de 7000 lignes! pour apprendre Rust depuis zéro absolument aucune connaissance en programmation.**
+**Un guide ludique par AnonSecLab complet de plus de 7000 lignes ! pour apprendre Rust depuis zéro absolument aucune connaissance en programmation.**
 
 ---
 
